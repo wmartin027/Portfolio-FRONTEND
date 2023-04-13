@@ -23,22 +23,12 @@ article {
     margin: 5px;
 }
 
-.avatar {
-    /* Rounded border */
+.avatar__image {
     border-radius: 50px;
-
-    /* Center the content */
-    align-items: center;
+    float: left;
     display: flex;
     justify-content: center;
-
-    /* Size */
     height: 5rem;
-    width: 5rem;
-}
-
-.avatar__image {
-    /* Size */
-    height: 100%;
-    width: 100%;
+    width: 5rem; 
+    margin-right: 20px;
 }
