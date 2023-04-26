@@ -20,7 +20,7 @@ h1{
 }
 
 #barra {
-    padding: 0.5rem;
+    padding: 0.2rem;
     background-color: gray;
     text-align: right;   
 }
@@ -34,7 +34,7 @@ h1{
     height: 500px;
 }
 header section {
-    background-image: url(img/americana-1512910_1280.webp);
+    background-image: url(img/Banner.webp);
     background-size: 100% 100%;
     display: flex;
     flex-direction: column;
