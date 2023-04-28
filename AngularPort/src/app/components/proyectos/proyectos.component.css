@@ -1,0 +1,17 @@
+ .row{
+    padding: 30px;
+    background-color: #efefef;
+    align-items: center;
+
+}
+
+img{
+    width: 300px;
+    height: auto;
+    padding: 15px;
+    box-shadow: 3px 3px 10px black;
+}
+
+div{
+    padding: 20px;
+}
